@@ -2,6 +2,15 @@
 
 Welcome to my GitHub! I'm a **Computer Science** student at Maastricht University, with a passion for **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**. I'm currently in my second year and actively seeking research and internship opportunities to further my skills and contribute to exciting projects.
 
+## 🛠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohseni&layout=compact&theme=radical)
+
+## 🌟 Featured Projects
+- [YouTube Summarizer](https://github.com/Amir-Mohseni/YouTube-Summarizer)
+- [Routing Application](https://github.com/Amir-Mohseni/Routing-Application)
+- [LLM Response Evaluator](https://github.com/Amir-Mohseni/AI-Response-Evaluation)
+- [Cargo Packing Copilot](https://github.com/Amir-Mohseni/CargoPacking)
+
 ## 🔭 Current Projects
 - **Intelligent Interface Design**: Working on a grocery list app with AI-based categorization for items and improving user experience through NLP models and reinforcement learning.
 - **LLM Fine-Tuning**: Fine-tuning large models (up to 450B parameters) to improve reasoning and helpfulness benchmarks using cutting-edge datasets.
