@@ -33,5 +33,5 @@ Welcome to my GitHub! I'm a **Computer Science** student at Maastricht Universit
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/amirreza-mohseni/)
-- **Email**: amir.mohseni@student.maastrichtuniversity.nl
+- **Email**: [Email](amir.mohseni@student.maastrichtuniversity.nl)
 - **GitHub**: [GitHub Profile](https://github.com/Amir-Mohseni)
