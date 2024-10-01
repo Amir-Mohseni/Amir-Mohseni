@@ -2,9 +2,6 @@
 
 Welcome to my GitHub! I'm a **Computer Science** student at Maastricht University, with a passion for **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**. I'm currently in my second year and actively seeking research and internship opportunities to further my skills and contribute to exciting projects.
 
-## 🛠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohseni&hide=jupyter%20notebook&layout=compact&theme=radical)
-
 ## 🌟 Featured Projects
 - [YouTube Summarizer](https://github.com/Amir-Mohseni/YouTube-Summarizer)
 - [Routing Application](https://github.com/Amir-Mohseni/Routing-Application)
