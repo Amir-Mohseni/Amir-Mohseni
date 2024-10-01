@@ -19,11 +19,12 @@ Welcome to my GitHub! I'm a **Computer Science** student at Maastricht Universit
 - Future plans to conduct research in prestigious AI institutes, both locally and internationally.
 
 ## 🏆 Achievements
-- **ICPC World Finalist 2021**, Bronze Medal in **ACM-ICPC Tehran Regional 2022**.
-- **Teaching Assistant** for various Computer Science courses such as Object-Oriented Programming, AI, and Graph Theory.
-- **Tutor** at Maastricht University, helping students transition into academic life.
+- **ICPC World Finalist 2021**
+- Bronze Medal in **ACM-ICPC Tehran Regional 2022**.
 
 ## 💼 Internships and Professional Experience
+- **Teaching Assistant** for various Computer Science courses such as Object-Oriented Programming, AI, and Graph Theory.
+- **Tutor** at Maastricht University, helping students transition into academic life.
 - **Research Assistant for Maastricht School of Business and Economics** (in progress): Focusing on data collection, and data analysis using machine learning techniques.
 - **Peer Mentor**: Guiding first-year students in their academic journey at Maastricht University.
   
