@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at Maastricht Universit
 
 ## 🔭 Current Projects
 - **Intelligent Interface Design**: Working on a grocery list app with AI-based categorization for items and improving user experience through NLP models and reinforcement learning.
-- **LLM Fine-Tuning**: Fine-tuning large models (up to 450B parameters) to improve reasoning and helpfulness benchmarks using cutting-edge datasets.
+- **LLM Fine-Tuning**: Fine-tuning large models (up to 450B parameters) to improve reasoning and helpfulness benchmarks using new techniques like built-in CoT.
 - **ML-Agents Soccer Simulation**: Modifying agent sensors and their field of view in the Unity ML-Agents environment.
 
 ## 🌱 Currently Learning
